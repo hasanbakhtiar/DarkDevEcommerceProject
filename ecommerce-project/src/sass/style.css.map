@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAEI,MAFE,CAEF,OAAO,CAAA;EACH,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,OAAO;CAI5B;;AARL,AAKQ,MALF,CAEF,OAAO,CAGH,OAAO,CAAA;EACH,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "style.scss",
+        "_header.scss",
+        "_slider.scss",
+        "_cart.scss",
+        "_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
